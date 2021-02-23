@@ -1,0 +1,20 @@
+com/example/demo/springdatamongodb/Person.java
+ com.example.demo.springdatamongodb.Person
+com/example/demo/springdatamongodb/MyAppWriteConcernResolver.java
+ com.example.demo.springdatamongodb.MyAppWriteConcernResolver
+com/example/demo/accessingdatamongodb/CustomerRepository.java
+ com.example.demo.accessingdatamongodb.CustomerRepository
+com/example/demo/accessingdatamongodb/Customer.java
+ com.example.demo.accessingdatamongodb.Customer
+com/example/demo/inventory/Inventory.java
+ com.example.demo.inventory.Inventory
+com/example/demo/mongoTemplate/PetEntity.java
+ com.example.demo.mongoTemplate.PetEntity
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/mongoTemplate/PocketEntity.java
+ com.example.demo.mongoTemplate.PocketEntity
+com/example/demo/mongoTemplate/MongoDBConfig.java
+ com.example.demo.mongoTemplate.MongoDBConfig
+com/example/demo/springdatamongodb/Mongoconfiguration.java
+ com.example.demo.springdatamongodb.Mongoconfiguration
