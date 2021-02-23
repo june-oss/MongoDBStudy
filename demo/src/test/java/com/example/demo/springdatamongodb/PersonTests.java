@@ -184,5 +184,6 @@ public class PersonTests {
         mongoTemplate.find(Query.query(where("firstName").regex("")), Customer.class).forEach(i -> log.info(i));
 
         log.info("=================================================");
+        log.info("00000");
     }
 }
