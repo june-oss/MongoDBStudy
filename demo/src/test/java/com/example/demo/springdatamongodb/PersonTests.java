@@ -177,7 +177,7 @@ public class PersonTests {
     }
 
     @Test
-    public void regexMathchTests(){
+    public void regexMatchTests(){
 
         log.info("=================================================");
 
